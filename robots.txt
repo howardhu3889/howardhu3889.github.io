@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://howardhu3889.github.io.git/sitemap.xml
